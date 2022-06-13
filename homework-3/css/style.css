@@ -1,0 +1,44 @@
+/********* Navigation Bar *********/
+nav{
+    float: left;
+    width: 10em;
+    margin: 25px 75px 75px 25px;
+    background-color: rgb(200, 200, 200);
+    border-radius: 10px 10px 40px 10px;
+    border-style: groove ;
+
+}
+
+nav ul{
+    padding-left: 10px;
+    list-style: none;
+}
+/******** Navigation Bar **********/
+
+aside {
+    float: inline-end;
+    width: 200px;
+}
+
+#photo-aside {
+    float: none;
+    width:75em;
+
+}
+
+.bg-color{
+    background-color: #d2691e62;
+}
+
+main{
+    font-family: 'Rubik', sans-serif;
+}
+
+footer{
+    position: fixed;
+    left: 65em;  
+    bottom: 0;
+    width: 100%;
+    color: black;
+    
+}
