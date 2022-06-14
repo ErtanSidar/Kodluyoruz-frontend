@@ -1,0 +1,23 @@
+.body{
+    background-color: #E9ECEF;
+}
+
+.h{
+    text-align: center;
+}
+
+.text{
+    color: rgb(145, 119, 5);
+}
+
+.first-text{
+    color: rgb(97, 7, 97) ;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.card1 {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
